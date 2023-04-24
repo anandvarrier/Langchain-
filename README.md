@@ -1,4 +1,4 @@
-# Langchain-
+# Langchain
 In this repository, I have worked on small projects for learning purposes. Feel free to explore like I am doing. 
 Tools&Chains01: Here, I have developed an interface using Stream Lit UI. 
 Observation: 
@@ -12,3 +12,15 @@ Observation:
   7) Strangely, we can actually ask it any kind of question. It fetches from open source internet as it uses OpenAI API. 
                         
  
+Custom Agents and Tools: Here, I have experimented on creating Custom Tools and Agents. 
+Observation: 
+  1) Agents
+       ^
+     Tools
+       ^
+ Functions/Class
+ 
+  2) We can customize the behaviour of Agents by changing parameters.
+  3) The response that we want depends upon 2 main factors
+      i) the way we write our functions ultimately our tools
+      ii) the way we give our prompts

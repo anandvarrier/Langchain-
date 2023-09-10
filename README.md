@@ -16,7 +16,7 @@ Observation:
                         
  
 Custom Agents and Tools: Here, I have experimented on creating Custom Tools and Agents. 
-I appreciate @insightbuilder for valuable their guidance.
+I appreciate @insightbuilder for their valuable guidance.
 Observation: 
   1) Agents
        ^
